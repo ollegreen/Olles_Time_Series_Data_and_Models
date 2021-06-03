@@ -3,7 +3,6 @@
 * WIP 
 * In the end will provide quick access to datasets to test Time Series Models on. 
 
-______
 
 ## Datasets
 * All are in pandas format and formatted correctly.
