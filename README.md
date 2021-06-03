@@ -18,7 +18,7 @@ ______
 
 * W.
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -27,7 +27,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -35,7 +35,7 @@ ______
 
 * Boston Housing prices
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -44,7 +44,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -53,7 +53,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -61,7 +61,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -70,7 +70,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -79,7 +79,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
@@ -88,7 +88,7 @@ ______
 
 * d 
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![data]()
 
 ______
 
