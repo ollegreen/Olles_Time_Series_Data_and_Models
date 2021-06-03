@@ -3,6 +3,12 @@
 * WIP 
 * In the end will provide quick access to datasets to test Time Series Models on. 
 
+## Models
+
+* Classic Time Series to benchmark more ambitious models. 
+1. Naive (give in the lag) 
+2. ARIMA
+3. Holt Winter
 
 ## Datasets
 * All are in pandas format and formatted correctly.
