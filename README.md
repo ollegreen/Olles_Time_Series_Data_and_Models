@@ -11,7 +11,7 @@
 3. Holt Winter
 
 ## Datasets
-* All are in pandas format and formatted correctly.
+* All datasets are in list and pandas format.
 ______
 
 ### Simple Univariate Seasonal Data #1 (D1)
