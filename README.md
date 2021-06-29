@@ -6,7 +6,7 @@
 * All datasets are in list and pandas format.
 ______
 
-### Univariate Seasonal Data - Monthly Flight Passenger
+### Univariate Seasonal Data: Monthly Flight Passenger
 
 * Classic dataset with flight passangers over time from the R data package.
 * D1_list = the data in a list format
@@ -17,7 +17,7 @@ ______
 
 ______
 
-### Univariate Non-Linear Dataset - Daily Gold Prices
+### Univariate Non-Linear Dataset: Daily Gold Prices
 
 * Gold price
 * Link: [Kaggle Gold dataset](https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price)
