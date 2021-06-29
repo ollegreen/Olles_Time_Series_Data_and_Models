@@ -12,7 +12,7 @@ ______
 * D1_list = the data in a list format
 * D1_pandas = the data in pandas dataframe format
 
-![data](https://www.solver.com/sites/default/files/Timese1.jpg)
+![Flight](https://www.solver.com/sites/default/files/Timese1.jpg)
 
 
 ______
@@ -22,7 +22,7 @@ ______
 * Gold price
 * Link: [Kaggle Gold dataset](https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price)
 
-![data]()
+![Gold](https://blog.minitab.com/hs-fs/hubfs/Imported_Blog_Media/time_series_gold_2.gif?width=435&height=294&name=time_series_gold_2.gif)
 
 ## Models (WIP)
 
