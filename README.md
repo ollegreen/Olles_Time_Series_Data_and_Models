@@ -1,20 +1,12 @@
 # Package to Test Time Series Models
 
-* WIP 
-* In the end will provide quick access to datasets to test Time Series Models on. 
-
-## Models
-
-* Classic Time Series to benchmark more ambitious models. 
-1. Naive (give in the lag) 
-2. ARIMA
-3. Holt Winter
+* In the end will provide quick access to standard datasets and basic time series models for benchmarking.
 
 ## Datasets
 * All datasets are in list and pandas format.
 ______
 
-### Simple Univariate Seasonal Data #1 (D1)
+### Univariate Seasonal Data - Monthly Flight Passenger
 
 * Classic dataset with flight passangers over time from the R data package.
 * D1_list = the data in a list format
@@ -22,83 +14,19 @@ ______
 
 ![data](https://www.solver.com/sites/default/files/Timese1.jpg)
 
+
 ______
 
-### Simple Univariate Seasonal Data #2
+### Univariate Non-Linear Dataset - Daily Gold Prices
 
-* W.
+* Gold price
+* Link: [Kaggle Gold dataset](https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price)
 
 ![data]()
 
-______
+## Models (WIP)
 
-
-### Complex Univariate Seasonal Data #1
-
-* d 
-
-![data]()
-
-______
-
-### ### Complex Univariate Seasonal Data #2 
-
-* Boston Housing prices
-
-![data]()
-
-______
-
-
-### Simple Non-Linear Dataset #1
-
-* d 
-
-![data]()
-
-______
-
-
-### Simple Non-Linear Dataset #2 
-
-* d 
-
-![data]()
-
-______
-
-### Complex Non-Linear Dataset #1
-
-* d 
-
-![data]()
-
-______
-
-
-### Complex Non-Linear Dataset #2 
-
-* d 
-
-![data]()
-
-______
-
-
-### Simple Regression Dataset #1
-
-* d 
-
-![data]()
-
-______
-
-
-### Simple Regression Dataset #2
-
-* d 
-
-![data]()
-
-______
-
+* Classic Time Series to benchmark more ambitious models. 
+1. Naive (give in the lag) 
+2. ARIMA
+3. Holt Winter
