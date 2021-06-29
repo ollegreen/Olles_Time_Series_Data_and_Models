@@ -16,7 +16,7 @@ ______
 
 ### Simple Univariate Seasonal Data #1 (D1)
 
-* Classic dataset with flight passangers over time.
+* Classic dataset with flight passangers over time from the R data package.
 
 ![data](https://www.solver.com/sites/default/files/Timese1.jpg)
 
