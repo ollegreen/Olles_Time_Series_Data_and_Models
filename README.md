@@ -17,6 +17,8 @@ ______
 ### Simple Univariate Seasonal Data #1 (D1)
 
 * Classic dataset with flight passangers over time from the R data package.
+* D1_list = the data in a list format
+* D1_pandas = the data in pandas dataframe format
 
 ![data](https://www.solver.com/sites/default/files/Timese1.jpg)
 
