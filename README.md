@@ -21,7 +21,6 @@ ______
 ### Univariate Non-Linear Dataset
 #### Daily Gold Prices
 
-* Gold price
 * Link: [Kaggle Gold dataset](https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price)
 
 ![Gold](https://blog.minitab.com/hs-fs/hubfs/Imported_Blog_Media/time_series_gold_2.gif?width=435&height=294&name=time_series_gold_2.gif)
