@@ -14,7 +14,7 @@
 * All are in pandas format and formatted correctly.
 ______
 
-### Simple Univariate Seasonal Data #1
+### Simple Univariate Seasonal Data #1 (SUSD)
 
 * Classic dataset with flight passangers over time.
 
