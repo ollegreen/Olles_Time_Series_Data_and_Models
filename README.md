@@ -1,8 +1,6 @@
-# Package to Test Time Series Models
+# Data & Models for Time Series Analysis
 
 * **Usecase**: Provide quick access to standard datasets and basic time series models for benchmarking.
-* **Link to PyPi**: [Link](https://pypi.org/project/Olles-Little-Data-and-Model-Pack/)
-* **Command to install**: pip install Olles-Little-Data-and-Model-Pack
 
    ## Datasets
    * All datasets are in list and pandas format.
