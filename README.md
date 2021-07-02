@@ -1,4 +1,7 @@
-1. # Package to Test Time Series Models
+# Package to Test Time Series Models
+
+Link to PyPi: [Link](https://pypi.org/project/Olles-Little-Data-and-Model-Pack/)
+Command to install: pip install Olles-Little-Data-and-Model-Pack
 
    * In the end will provide quick access to standard datasets and basic time series models for benchmarking.
 
